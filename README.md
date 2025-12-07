@@ -1,8 +1,6 @@
 # Chaitanya Hazari
 
-Senior Java developer focused on building reliable enterprise systems, clean architectures, and pragmatic developer-friendly solutions.
-
-I care about code that is easy to reason about, safe to change, and stable in production.
+Software developer currently using java, python, node.js
 
 ## What I do
 I build and maintain large-scale business applications with complex data models, strict audit requirements, and real-world constraints. I focus on:
